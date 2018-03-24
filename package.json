@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-cpy",
-  "version": "0.0.0-alpha.0",
+  "version": "1.0.0",
   "description": "rollup plugin to easily copy files and folders.",
   "main": "dist/rollup-plugin-cpy.cjs.js",
   "module": "dist/rollup-plugin-cpy.es.js",
