@@ -75,5 +75,11 @@
     "rollup-plugin-buble": "^0.19.2",
     "rollup-plugin-commonjs": "^9.1.0",
     "rollup-plugin-json": "^2.3.0"
+  },
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "cpy": "^6.0.0",
+    "lodash.isobject": "^3.0.2",
+    "mkdirp": "^0.5.1"
   }
 }
