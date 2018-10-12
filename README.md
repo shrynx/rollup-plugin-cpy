@@ -54,7 +54,7 @@ plugins: [
   ...
   copy({
     files: ['src/*.png', '!src/goat.png'],
-    dest: 'dist'
+    dest: 'dist',
     options: {
       verbose: true,
       ...
