@@ -78,7 +78,7 @@
   },
   "dependencies": {
     "chalk": "^2.3.2",
-    "cpy": "^6.0.0",
+    "cpy": "^7.0.1",
     "lodash.isobject": "^3.0.2",
     "mkdirp": "^0.5.1"
   }
