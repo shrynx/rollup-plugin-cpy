@@ -1,3 +1,7 @@
+## Moved to https://github.com/paulmelnikow/rollup-plugin-cpy
+
+----
+
 # rollup-plugin-cpy
 
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
